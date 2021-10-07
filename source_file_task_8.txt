@@ -1,0 +1,6 @@
+n1 <> input(16);
+n2 <> input();
+res <> +(n1, n2);
+output(res);
+res <> div(n1,0);
+
